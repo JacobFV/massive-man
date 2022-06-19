@@ -24,3 +24,5 @@ The Massive MAN is directly compatible with the AInimal ecosystem. Clients 'laun
 ## Safety and Governance
 
 Make bulleted list of strategies for safety and governance.
+
+which directly links resource holders (algorithms, compute, data, storage) with consumers while also giving providers fine-grained control over how their resources are consumed. Resources are heterogenous and include algorithms (computer code, parameter checkpoints, natural language descriptions / instructions), compute (running hosted containers, executing web assembly / javascript, or providing remote interpretter REPL’s for Python, node, etc.), data (datasets, environments), storage (fast and slow access), and other API endpoints. Under the hood, the Massive MAN includes a decentralized orchestrator subnet which orchestrates supply and demand, rewards public benefactors (eg, suppliers who release the checkpoint of a valuable large language model) with newly-minted tokens, and records transactions on a blockchain ledger.
